@@ -1,1 +1,2 @@
  Chacon, S. and Straud, b. Pro Git. Apress.
+ Loeliger, J. and McCullough, M. Versión control with Git. O´Reilly.
